@@ -1,0 +1,10 @@
+Multiple linear regression for CO2 Emissions vs. Engine Size, Cylinders and Fuel Consumption Comb
+a0: 6.11
+a1: 6.52
+a2: 12.89
+Mean Absolute Error (MAE): 12.90
+Mean Square Error (MSE): 359.25
+Root Mean Square Error (RMSE): 18.95
+Relative Absolute Error (RAE): 0.28
+Relative Square Error (RSE): 0.11
+Variance score: 0.89
